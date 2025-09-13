@@ -98,3 +98,4 @@
 .equ	BNC1	= 2	; BNC input
 .equ	BNC2	= 4	; BNC input
 .list
+
